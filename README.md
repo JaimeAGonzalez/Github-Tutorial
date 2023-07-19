@@ -54,6 +54,6 @@
 Optional: Add any issues your ran into or any comments you want into `README.md` and how you fixed them. 
 
 ## Results
-***Optional:** Any changes make directly in the github website are not make in the local repository. Then, before making any push from the local the user must write in the terminal `git pull` for do the correspondant update.
+**Optional:** Any changes make directly in the github website are not make in the local repository. Then, before making any push from the local the user must write in the terminal `git pull` for do the correspondant update.
 
 
