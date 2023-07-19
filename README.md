@@ -59,7 +59,7 @@ The results are listed below
 **Stash:** 
 `stash@{0}: WIP on main: 56621ba Update README.md`
 
-**Merge:** 
+**Merge:** <br />
 *<<<<<<< HEAD* <br />
 `console.log('Hello beautiful world');` <br />
 *=======* <br />
