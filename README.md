@@ -60,11 +60,11 @@ The results are listed below
 `stash@{0}: WIP on main: 56621ba Update README.md`
 
 **Merge:** 
-*<<<<<<< HEAD*
-`console.log('Hello beautiful world');`
-*=======*
+*<<<<<<< HEAD* <br />
+`console.log('Hello beautiful world');` <br />
+*=======* <br />
 `console.log('Hello pretty world');`
-*>>>>>>> feature-branch*
+*>>>>>>> feature-branch* <br />
 
 **Optional:** Any changes make directly in the github website are not make in the local repository. Then, before making any push from the local the user must write in the terminal `git pull` for do the correspondant update.
 
