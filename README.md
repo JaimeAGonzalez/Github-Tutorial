@@ -72,8 +72,8 @@ For solving the merge I chose the incoming change.
 
 On the other hand, eventhough I had my username and email linked to my account, during the merge the VSCODE terminal could not linked properly. For this reason it must be set manually. The user can use:
 
--**Username:** `git config --global user.name`
--**Email:** `git config --global user.email`
+    -**Username:** `git config --global user.name` <br />
+    -**Email:** `git config --global user.email`
 
 
 
