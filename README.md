@@ -63,7 +63,7 @@ The results are listed below
 *<<<<<<< HEAD* <br />
 `console.log('Hello beautiful world');` <br />
 *=======* <br />
-`console.log('Hello pretty world');`
+`console.log('Hello pretty world');` <br />
 *>>>>>>> feature-branch* <br />
 
 **Optional:** Any changes make directly in the github website are not make in the local repository. Then, before making any push from the local the user must write in the terminal `git pull` for do the correspondant update.
