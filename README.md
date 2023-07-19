@@ -54,7 +54,8 @@
 Optional: Add any issues your ran into or any comments you want into `README.md` and how you fixed them. 
 
 ## Results
-**Stash:** `stash@{0}: WIP on main: 56621ba Update README.md`
+**Stash:** 
+`stash@{0}: WIP on main: 56621ba Update README.md`
 **Merge:** 
 <<<<<<< HEAD
 console.log('Hello beautiful world');
