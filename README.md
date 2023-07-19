@@ -56,10 +56,10 @@ Optional: Add any issues your ran into or any comments you want into `README.md`
 ## Results
 The results are listed below
 
-**Stash:** 
+**1. Stash:** 
 `stash@{0}: WIP on main: 56621ba Update README.md`
 
-**Merge:** <br />
+**2. Merge:** <br />
 *<<<<<<< HEAD* <br />
 `console.log('Hello beautiful world');` <br />
 *=======* <br />
@@ -68,7 +68,7 @@ The results are listed below
 
 For solving the merge I chose the incoming change.
 
-**Optional:** Any changes make directly in the github website are not make in the local repository. Then, before making any push from the local the user must write in the terminal `git pull` for do the correspondant update. <br />
+**3. Optional:** Any changes make directly in the github website are not make in the local repository. Then, before making any push from the local the user must write in the terminal `git pull` for do the correspondant update. <br />
 
 On the other hand, eventhough I had my username and email linked to my account, during the merge the VSCODE terminal could not linked properly. For this reason it must be set manually. The user can use:
 
