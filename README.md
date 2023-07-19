@@ -66,6 +66,14 @@ The results are listed below
 `console.log('Hello pretty world');` <br />
 *>>>>>>> feature-branch* <br />
 
-**Optional:** Any changes make directly in the github website are not make in the local repository. Then, before making any push from the local the user must write in the terminal `git pull` for do the correspondant update.
+For solving the merge I chose the incoming change.
+
+**Optional:** Any changes make directly in the github website are not make in the local repository. Then, before making any push from the local the user must write in the terminal `git pull` for do the correspondant update. <br />
+
+On the other hand, eventhough I had my username and email linked to my account, during the merge the VSCODE terminal could not linked properly. For this reason it must be set manually. The user can use:
+
+-**Username:** `git config --global user.name`
+-**Email:** `git config --global user.email`
+
 
 
